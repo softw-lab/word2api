@@ -28,7 +28,7 @@ There is an example of the dictionary (the first 1,000 lines of it). You can vis
 
 An example (source code) to use the dictionary can also be found in the folder. The source code can calculate the similarity between a word and an API or a set of words and a set of APIs with the dictionary (see the method similarityOfTwoTerms and similarityOfTwoTermSets in W2ASimilarity.java). 
 
->> [dictionary//code-for-using-the-dic//src//org//oscarlab//word2api//](https://github.com/softw-lab/word2api/tree/master/dictionary/code-for-using-the-dic/src/org/oscarlab/word2api]
+>> [dictionary//code-for-using-the-dic//src//org//oscarlab//word2api//](https://github.com/softw-lab/word2api/tree/master/dictionary/code-for-using-the-dic/src/org/oscarlab/word2api)
 
 
 # Human Judgement
